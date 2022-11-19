@@ -17,7 +17,7 @@
 ## Структура проекта
 
 ### src/
-```
+```bash
 main/
 ├─ kotlin/
 │  ├─ controller/
