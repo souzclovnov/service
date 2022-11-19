@@ -19,41 +19,41 @@
 ### src/
 ```bash
 main/
-├─ kotlin/
-│  ├─ controller/
-│  │  ├─ CandidateController
+├── kotlin/
+│  ├── controller/
+│  │  ├── CandidateController
 │  │  ├─ EmployeeController
 │  │  ├─ PositionController
 │  │  ├─ ProjectController
 │  │  ├─ SkillController
-│  │  ├─ VacancyController
+│  │  └──  VacancyController
 │  ├─ model/
 │  │  ├─ Candidate
 │  │  ├─ Employee
 │  │  ├─ Position
 │  │  ├─ Project
 │  │  ├─ Skill
-│  │  ├─ Vacancy
+│  │  └──  Vacancy
 │  ├─ repository/
 │  │  ├─ CandidateRepository
 │  │  ├─ EmployeeRepository
 │  │  ├─ PositionRepository
 │  │  ├─ ProjectRepository
 │  │  ├─ SkillRepository
-│  │  ├─ VacancyRepository
+│  │  └──  VacancyRepository
 │  ├─ service/
 │  │  ├─ CandidateService
 │  │  ├─ EmployeeService
 │  │  ├─ PositionService
 │  │  ├─ ProjectService
 │  │  ├─ SkillService
-│  │  ├─ VacancyService
-│  ├─ HrApplication
-├─ resources/
-│  ├─ static/
-│  ├─ templates/
-│  ├─ aaplication.yml
-│  ├─ data.sql
+│  │  └──  VacancyService
+│  └──  HrApplication
+└── resources/
+   ├─ static/
+   ├─ templates/
+   ├─ aaplication.yml
+   └──  data.sql
 ```
 ## Начало работы
 
