@@ -59,6 +59,7 @@ main/
 
 Клонировать репозиторий:
 git
+
 git clone https://github.com/souzclovnov/service.git
 
 Проект запускается локально
