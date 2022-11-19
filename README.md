@@ -17,7 +17,7 @@
 ## Структура проекта
 
 ### src/
-
+```
 main/
 ├─ kotlin/
 │  ├─ controller/
@@ -54,7 +54,7 @@ main/
 │  ├─ templates/
 │  ├─ aaplication.yml
 │  ├─ data.sql
-
+```
 ## Начало работы
 
 Клонировать репозиторий:
