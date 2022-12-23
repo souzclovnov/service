@@ -13,6 +13,7 @@
 - [Требования](https://docs.google.com/spreadsheets/d/1ar7k1M1Ny8dvJw3D6-R4sVilpewrDADMEtiyr-7OKU8/edit#gid=0)
 - [Архитектурное решение](https://app.diagrams.net/#G1pnGNtSTGczDYFIzFhM41HImrxgo-Cnw7)
 - [БД](https://dbdiagram.io/d/635407f44709410195bbe5a8)
+- [Макет Приложения](https://www.figma.com/file/qLahskNSJ3UWlxdMP38LfG/Maslov?node-id=0%3A1&t=Wf9tOL6sV7rhFy9J-0)
 
 ## Структура проекта
 
